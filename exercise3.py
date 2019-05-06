@@ -1,22 +1,22 @@
 # ----- Name example -----
 
-# print("What is your name?")
+print("What is your name?")
 
-# user_name = input()
+user_name = input()
 
-# print("Hello, {}".format(user_name))
+print("Hello, {}".format(user_name))
 
 
 # ----- Password example -----
 
-# secret_password = "please"
+secret_password = "please"
 
-# print("What is the password?")
-# password_attempt = input()
+print("What is the password?")
+password_attempt = input()
 
-# correct_or_not = (password_attempt == secret_password)
+correct_or_not = (password_attempt == secret_password)
 
-# print("That's {}!".format(correct_or_not))
+print("That's {}!".format(correct_or_not))
 
 
 # ----- Cookies example -----
